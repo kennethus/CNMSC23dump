@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "561332731359",
+    "project_id": "cmsc23-todo-app-jnadolfo",
+    "storage_bucket": "cmsc23-todo-app-jnadolfo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561332731359:android:7d08c46b004a2084aad86a",
+        "android_client_info": {
+          "package_name": "com.example.week7_networking_discussion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561332731359-u85p24324gip9h5nh12do9r0est5s5cs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBQMVR5J2YeYED1S-LpuQvGdst5-xY9bI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561332731359-u85p24324gip9h5nh12do9r0est5s5cs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
